@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images and sounds/bg.png</file>
+        <file>images and sounds/bg2.jpg</file>
+        <file>images and sounds/sport shoe pic.jfif</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>images and sounds/bg music.mp3</file>
+        <file>images and sounds/END MUSIC.wav</file>
+    </qresource>
+</RCC>
